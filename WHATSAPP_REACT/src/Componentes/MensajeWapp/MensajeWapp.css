@@ -1,0 +1,41 @@
+/*MensajeWapp.css*/
+.MensajeWapp{
+    border-radius: 12px;
+    background-color: rgb(39, 225, 154);
+    padding: 5px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+    
+
+}
+
+.pieMensaje{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
+
+.Autor{
+    font-size: large;
+  
+    
+}
+.contenido{
+    display: flex;
+    color:rgb(85, 85, 85);
+    margin-left: 15px   ;
+    font-size: medium;
+}
+.fecha, .estado{
+    font-size: small;
+    margin-left: 15px;
+    
+}
+
+
+
+
